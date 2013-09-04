@@ -18,15 +18,6 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	// switch ($_SERVER['HTTP_HOST']) {
-	// 	case 'localhost:8888':
-	// 		$env = 'development';
-	// 		break;
-		
-	// 	default:
-	// 		$env = 'production';
-	// 		break;
-	// }
 	
  	define('ENVIRONMENT', 'development');
 /*
